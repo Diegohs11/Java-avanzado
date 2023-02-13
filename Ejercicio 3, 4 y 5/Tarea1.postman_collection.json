@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "798cc084-661d-48da-8c16-294fdd79f4a4",
+		"name": "Tarea1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25834380"
+	},
+	"item": [
+		{
+			"name": "Obtener-usuarios",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
